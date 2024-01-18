@@ -2,7 +2,7 @@ import 'package:easy_journey/firebase_ref.dart';
 import 'package:flutter/material.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'second_screen.dart';
-import 'sign_up_screen.dart';
+import 'Sign_Up_Screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:get/get.dart';
 
